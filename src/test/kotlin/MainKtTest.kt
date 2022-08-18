@@ -29,7 +29,7 @@ class MainKtTest {
             lastSum = sumLastMonth,
             value = transferValue
         )
-        assertEquals(29601, result)
+        assertEquals(29600, result)
     }
 
     @Test
